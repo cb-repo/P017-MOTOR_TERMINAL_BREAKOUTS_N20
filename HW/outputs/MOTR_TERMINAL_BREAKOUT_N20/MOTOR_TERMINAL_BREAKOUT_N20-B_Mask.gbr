@@ -1,0 +1,81 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0)*%
+%TF.CreationDate,2022-07-31T18:01:37+12:00*%
+%TF.ProjectId,MOTOR_TERMINAL_BREAKOUT_N20,4d4f544f-525f-4544-9552-4d494e414c5f,0A*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.0)) date 2022-07-31 18:01:37*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMHorizOval*
+0 Thick line with rounded ends*
+0 $1 width*
+0 $2 $3 position (X,Y) of the first rounded end (center of the circle)*
+0 $4 $5 position (X,Y) of the second rounded end (center of the circle)*
+0 Add line between two ends*
+20,1,$1,$2,$3,$4,$5,0*
+0 Add two circle primitives to create the rounded ends*
+1,1,$1,$2,$3*
+1,1,$1,$4,$5*%
+G04 Aperture macros list end*
+%ADD10HorizOval,1.150000X-0.512652X0.512652X0.512652X-0.512652X0*%
+%ADD11O,2.600000X1.150000*%
+%ADD12O,1.150000X2.600000*%
+%ADD13C,2.600000*%
+%ADD14C,3.000000*%
+%ADD15C,5.500000*%
+%ADD16HorizOval,1.150000X-0.512652X-0.512652X0.512652X0.512652X0*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H7*%
+X222650000Y-147350000D03*
+%TD*%
+D11*
+%TO.C,H8*%
+X220000000Y-153750000D03*
+%TD*%
+%TO.C,H5*%
+X220000000Y-146250000D03*
+%TD*%
+D12*
+%TO.C,H4*%
+X216250000Y-150000000D03*
+%TD*%
+D13*
+%TO.C,H1*%
+X223000000Y-142000000D03*
+D14*
+X223000000Y-142000000D03*
+%TD*%
+D15*
+%TO.C,H13*%
+X220000000Y-150000000D03*
+%TD*%
+D12*
+%TO.C,H9*%
+X223750000Y-150000000D03*
+%TD*%
+D16*
+%TO.C,H3*%
+X222650000Y-152650000D03*
+%TD*%
+D14*
+%TO.C,H2*%
+X217000000Y-142000000D03*
+D13*
+X217000000Y-142000000D03*
+%TD*%
+D16*
+%TO.C,H10*%
+X217350000Y-147350000D03*
+%TD*%
+D10*
+%TO.C,H6*%
+X217350000Y-152650000D03*
+%TD*%
+M02*
