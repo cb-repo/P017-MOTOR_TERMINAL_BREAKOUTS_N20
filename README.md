@@ -1,11 +1,11 @@
 # N20 MOTOR TERMINAL BREAKOUTS v1.0 (2-pack)
 
-<img src="assets/1.0_BREAKOUT.JPG" width="400">
+<img src="assets/1.0_BREAKOUT.png" width="400">
 
 Motor terminals are traditionally small and flimsy, making it hard to guarantee a reliable solder connection.
 MOTOR TERMINAL BREAKOUTS are designed to simplify and strengthen these solder joints, enabling more reliable operation especally in high vibration environments: orignially designed for combat robotics but is suitable for any application using these motors. 
   
-This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) based product by [cb-technology](https://www.cb-technology.co.nz/), Connor Benton.
+Developed, assembled, and tested in [Christchurch, New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand), by Connor Benton.
 
 ## FEATURES
 - Fits all N-series (N10 / N20 / N30) motors.
@@ -20,3 +20,7 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 - **Material:** Fiberglass (FR4)
 - **Mounting Pad Center:** 7.5mm
 - **Included in Package:** 2x N20 Motor Terminal Breakouts
+
+## PACKAGE INCLUDES
+
+- 2x N20 MOTOR TERMINAL BREAKOUTS
